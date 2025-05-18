@@ -1,4 +1,4 @@
-# Face-Detection
+# Face-Detect
 # 🧠 Real-Time Face Mesh Detection with Mediapipe
 
 This project implements a real-time face mesh detection system using Mediapipe and OpenCV, enhanced with:
@@ -27,7 +27,7 @@ pip install opencv-python mediapipe numpy
 
 ## 📁 Project Files
 
-Face-Detect ion/
+Face_Detect ion/
 ├── face-Detect.py      # Main script for face mesh detection
 ├── README.md           # Project documentation.    
 
